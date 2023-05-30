@@ -1,0 +1,3 @@
+To compile program with -O flag, type "make"
+
+To compile program with -g flag, type "make debug"

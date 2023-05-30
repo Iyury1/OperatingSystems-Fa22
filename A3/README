@@ -1,0 +1,19 @@
+Ian Yurychuk - 1552809
+
+Note - the server must be running before the client. The client program waits for 2 seconds before connecting
+to the server to ensure the server is fully initialized and can accept connections.
+
+Sources:
+
+Socket programming:
+https://www.geeksforgeeks.org/socket-programming-cc/
+
+Using select:
+https://www.youtube.com/watch?v=Y6pFtgRdUts
+
+Client-Server progam:
+https://www.geeksforgeeks.org/handling-multiple-clients-on-server-with-multithreading-using-socket-programming-in-c-cpp/
+
+Server program with thread-pools
+https://www.youtube.com/watch?v=_n2hE2gyPxU
+https://www.youtube.com/watch?v=P6Z5K8zmEmc
